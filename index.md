@@ -1,86 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: PingFeng Zhang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# PingFeng Zhang
+Backend Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="s694060865@gmail.com">s694060865@gmail.com</a>
+| <a href="https://github.com/gesneriana">My github page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Now I am a student at the ATC Language School, I have been studying English for six months and have made great progress. Thanks to my teachers, when I first came here I could barely understand English at all, now I have reached A2 plus level.  I have applied for another six months language course, which will last 24 weeks from 6.26.  I think I should have a good level of English after six months.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Golang, C#, Network technology, such as packet capture and VPN, Good at using linux, usually use linux to develop software.
+I am a backend engineer with 7 years of work experience
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Network technology, swimming, Japanese anime, Nature, I especially like flowers and small animals, and almost every week I go to Phoenix Park to feed carrots to the deer.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2018`
+__Zhongnan University of Economics and Law.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+-junior college
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+-I have had computer training and internship experience before, and I started to receive computer-related training around 2014
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2022`
+__Golang Engineer__, StarShine Group
 
-- Warden
-- Minted coins
+- Web backend
+- Big data analysis
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019`
+__C# Engineer__, QiaXue ShenZhen
 
 
 
