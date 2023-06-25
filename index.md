@@ -20,6 +20,8 @@ Now I am a student at the ATC Language School, I have been studying English for 
 Golang, C#, Network technology, such as packet capture and VPN, Good at using linux, usually use linux to develop software.
 I am a backend engineer with 7 years of work experience.
 
+Proficiency in using various development tools, such as git, pprof, curl, ssh, and the ability to solve problems during development
+
 As my language is not very good, I won't write too much about it.  I'm going to renew my student visa at the language school next week, so I'll be able to intern here for about six months.  This will give me enough time to prove my ability to work.  I also know front-end development, such as HTML, javascript, css, VUE.
 
 In my past work experience I have often mentored new colleagues with little work experience.
