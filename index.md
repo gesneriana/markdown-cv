@@ -27,7 +27,7 @@ In my past work experience I have often mentored new colleagues with little work
 
 ### Research interests
 
-Network technology, swimming, Japanese anime, Nature, I especially like flowers and small animals, and almost every week I go to Phoenix Park to feed carrots to the deer.
+Network technology, Reading programming books. swimming, Japanese anime, Nature, I especially like flowers and small animals, and almost every week I go to Phoenix Park to feed carrots to the deer.
 
 
 ## Education
